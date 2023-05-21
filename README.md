@@ -4,7 +4,7 @@ Introduction to Computing
 Course Description
 The objective of this course is to introduce students to the field of computing and problem solving with the help of an object-oriented programming language (C++). Hence the course will cover many C++ features in detail as needed so students will also be learning a structured programming language. Through the lectures, quizzes, take-home exams, and interactive recitations students will learn how to design algorithms based on object-oriented programming paradigms.
 
-** CURRICULUM
+* CURRICULUM *
 Week 1: Introduction to Programming Languages, Data Representation (bits and bytes), basic programming structure and concepts: identifiers, literals, symbols, variables, screen input/output (cin and cout)
 
 Week 2: Basic data types (int/double/char/bool) and basic arithmetic operations with their precedence, first C++ program with Visual MS Studio
