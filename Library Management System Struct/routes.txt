@@ -1,0 +1,12 @@
+2 Istanbul Ankara
+9 Istanbul 	Izmir
+6 Izmir Istanbul
+4 Ankara Adana
+12	 Trabzon Istanbul
+1 Eskisehir  Ankara
+7 Ankara Istanbul
+5 Gaziantep 	Ankara
+3 Ankara Gaziantep
+8 Ankara Eskisehir
+11 Istanbul Trabzon
+10 Adana     Ankara
